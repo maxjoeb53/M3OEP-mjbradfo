@@ -11,6 +11,4 @@ logograms, complete mazes, and learn about the rich natural landscape of the inn
 
 I'll be using Python to display images with code from Image_Manip and C++ for the framework of the game.
 
-
-
-Thi
+D
